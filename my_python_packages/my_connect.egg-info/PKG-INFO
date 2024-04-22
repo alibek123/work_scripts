@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: my-connect
+Version: 1.0.0
+Summary: Connection to the database
+Home-page: UNKNOWN
+Author: Alibek Zhumash
+Author-email: zhumash6@gmail.com
+License: UNKNOWN
+Description: My first Python package to connect to the database
+Platform: UNKNOWN
